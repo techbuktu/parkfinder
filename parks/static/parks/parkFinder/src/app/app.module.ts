@@ -6,11 +6,12 @@ import { AppComponent } from './app.component';
 import { ParkDetailComponent } from './components/park-detail/park-detail.component';
 import { ParkListComponent } from './components/park-list/park-list.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
     ParkDetailComponent,
-    ParkListComponent
+    ParkListComponent,
   ],
   imports: [
     BrowserModule,
