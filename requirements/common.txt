@@ -6,7 +6,7 @@ click==6.7
 defusedxml==0.5.0
 Django==1.11
 django-tinymce==2.7.0
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 djangorestframework-gis==0.13
 djangorestframework-jwt==1.11.0
 -e git+https://github.com/mobolic/facebook-sdk.git@5cafafc95cdee5246838d637feea4cc90ec75585#egg=facebook_sdk
